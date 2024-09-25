@@ -11,4 +11,4 @@ console.log (areaQuadrado(54));
 let calculoMedia = function (num3,num4,num5){
     return (num3+num4+num5)/3;
 }
-console.log (calculoMedia(2,4,9);)
+console.log (calculoMedia(2,4,9));
