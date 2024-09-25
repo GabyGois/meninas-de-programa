@@ -6,4 +6,4 @@ console.log (soma(6,7))
 function areaQuadrado (lado) {
     return lado*lado;
 }
-console.log (areaQuadrado(54))
+console.log (areaQuadrado(54));
