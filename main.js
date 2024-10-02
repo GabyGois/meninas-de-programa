@@ -32,11 +32,11 @@
 // }
 
 
-let idade = 18
+let idade = 14
 if (idade>17) {
-    console.log("preso")
+    console.log('preso')
     
 } else
-    { console.log( 'livre')
+    { console.log('livre')
     
 }
