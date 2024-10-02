@@ -32,7 +32,7 @@
 // }
 
 
-let idade = 18 parseInt(prompt('andou cometendo crimes recentemente?'))
+let idade = parseInt(prompt('andou cometendo crimes recentemente?'));
 if (idade>17) {
     console.log('preso')
     
